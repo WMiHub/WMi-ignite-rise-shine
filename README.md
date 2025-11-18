@@ -1,2 +1,2 @@
-# ignite-rise-shine
-Vehicles,Locks,Watkins Products, Beard Kit, create recurring income opportunity.
+# WMi-ignite-rise-shine
+Vehicles,Locks,Watkins Products, Beard Kit, Create an asset-based recurring income opportunity.

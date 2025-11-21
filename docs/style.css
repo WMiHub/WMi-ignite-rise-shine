@@ -52,3 +52,41 @@ body {
     margin: 0 auto;
     line-height: 1.6;
 }
+.benefits {
+    background: #f7f7f7;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.benefits h2 {
+    font-size: 28px;
+    color: #0fa958;
+    margin-bottom: 40px;
+}
+
+.benefit-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+.benefit-box {
+    background: white;
+    width: 260px;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.benefit-box h3 {
+    font-size: 20px;
+    color: #0fa958;
+    margin-bottom: 10px;
+}
+
+.benefit-box p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+}
